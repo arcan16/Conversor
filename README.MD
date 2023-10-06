@@ -34,4 +34,4 @@ Aplicación creada para convertir diversas divisas a traves del consumo del API
 #### Interfaz de conversion de Masa
 ![Vista Previa Interfaz Masa](./src/img/06masa.png)
 
-![Linkedin](https://www.linkedin.com/in/sergioparedesarellano)
+https://www.linkedin.com/in/sergioparedesarellano
