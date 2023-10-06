@@ -21,3 +21,17 @@ Aplicación creada para convertir diversas divisas a traves del consumo del API
 
 ## Vista previa del proyecto
 
+#### Estructura del proyecto
+![Vista Previa Estructura Del Proyecto](./src/img/01Estructura_proyecto.png)
+#### Interfaz de Bienvenida
+![Vista Previa Interfaz Bienvenida](./src/img/02Bienvenida.png)
+#### Interfaz de conversion de Divisas
+![Vista Previa Interfaz Divisas](./src/img/03Divisas.png)
+#### Interfaz de conversion de Longitud
+![Vista Previa Interfaz Longitud](./src/img/04Longitud.png)
+#### Interfaz de conversion de Temperatura
+![Vista Previa Interfaz Temperatura](./src/img/05Temperatura.png)
+#### Interfaz de conversion de Masa
+![Vista Previa Interfaz Masa](./src/img/06masa.png)
+
+![Linkedin](https://www.linkedin.com/in/sergioparedesarellano)
