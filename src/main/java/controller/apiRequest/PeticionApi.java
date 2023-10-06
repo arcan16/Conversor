@@ -22,14 +22,14 @@ public class PeticionApi {
             conexion.setRequestMethod("GET");
             // Ejecutamos la peticion
             conexion.connect();
-            // Capturamos la respuesta
+            // Capturamos el codigo de respuesta
             Integer codigoRespuesta=conexion.getResponseCode();
 
-
+            // Leemos la informacion
             BufferedReader br = new BufferedReader(new InputStreamReader(conexion.getInputStream()));
             JSONObject miJson;
             String data="";
-
+            // Procesamos la informacion recibida
             if((data= br.readLine())!=null && conexion.getResponseCode()==200){
                 miJson=new JSONObject(data);
                 tazaConversion=miJson.optString("conversion_rate");
